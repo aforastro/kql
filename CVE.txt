@@ -1,0 +1,10 @@
+CVE ID,Title,QVS Score
+CVE-2024-8118,Grafana Sensitive Information Disclosure Vulnerability (CVE-2024-8118),—
+CVE-2024-1442,Grafana Data Source Deletion Vulnerability (CVE-2024-1442),35
+CVE-2025-3415,Grafana Information Disclosure Vulnerability (CVE-2025-3415),40
+CVE-2025-1088,Grafana Improper Input Validation Vulnerability (CVE-2025-1088),20
+CVE-2025-3454,Grafana Authorization Bypass Vulnerability (CVE-2025-3454),30
+CVE-2024-1313,Grafana Authorization Bypass Vulnerability (CVE-2024-1313),37
+CVE-2025-4123,Grafana Cross-Site Scripting (XSS) Vulnerability (CVE-2025-4123),40
+CVE-2023-4822,Grafana Enterprise Improper Privilege Management Vulnerability (CVE-2023-4822),35
+CVE-2023-4399,Grafana Enterprise Network Restrictions Bypass Vulnerability (CVE-2023-4399),35
