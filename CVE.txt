@@ -1,4 +1,4 @@
-CVE ID,Title,QVS Score
+CVE_ID,Title,QVS_Score
 CVE-2024-8118,Grafana Sensitive Information Disclosure Vulnerability (CVE-2024-8118),—
 CVE-2024-1442,Grafana Data Source Deletion Vulnerability (CVE-2024-1442),35
 CVE-2025-3415,Grafana Information Disclosure Vulnerability (CVE-2025-3415),40
